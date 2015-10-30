@@ -41,3 +41,4 @@ fis.match('*.less', {
 }).match('*.png', {
     optimizer: fis.plugin('png-compressor')
 })
+
